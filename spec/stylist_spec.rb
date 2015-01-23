@@ -60,5 +60,4 @@ describe(Stylist) do
       expect(test_stylist.clients()).to(eq([test_client, test_client2]))
     end
   end
-
 end
